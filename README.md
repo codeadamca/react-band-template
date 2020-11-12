@@ -13,4 +13,3 @@ This code is a end result of converting a W3Schools template to React.js.
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
-
