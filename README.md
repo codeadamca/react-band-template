@@ -1,6 +1,6 @@
 # react-band-template
 
-This code is a end result of converting a W3Schools template to React.js.
+As a method of learning React.js, I have chosen a W3 HTML/CSS website temaplte and converted it to React.js. This code is the end result of converting a W3Schools template to React.js.
 
 [Vew all of the W3Schools Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 
